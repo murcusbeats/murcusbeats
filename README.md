@@ -1,4 +1,8 @@
-## Hi there 👋
+Official website of MURCUS BEATS — an independent Ugandan music brand focused on Afrobeats, original music, instrumental production and creative sounds. Discover, stream and download original releases, explore new music and follow the journey of Murcus Beats.
+
+🎧 The Sound of Creativity.
+🔴 Red & Black. Original & Bold.
+🇺🇬 Made in Uganda.## Hi there 👋
 
 <!--
 **murcusbeats/murcusbeats** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
